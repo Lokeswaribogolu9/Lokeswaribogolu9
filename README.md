@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Lokeswari Bogolu! 👋</h1>
 
 <p align="center">
-  <b>Data Analyst | SQL • Excel • Python in Progress | Dallas, TX</b>
+  <b>Data Analyst | SQL • Excel • Power BI |  TEXAS </b>
 </p>
 
 <p align="center">
