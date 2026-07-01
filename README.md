@@ -20,10 +20,10 @@ I'm a data professional with hands-on experience in **SQL analysis**, **Excel da
 I enjoy working with real-world datasets to uncover insights that drive business decisions.
 
 - 🔍 Focused on: **Data Analytics & Business Intelligence**
-- 🛠️ Currently working with: SQL, Excel, and exploring Python & Power BI
+- 🛠️ Currently working with: SQL, Excel, and  Power BI
 - 📊 Background in: Equipment operations data, procurement, and consumer goods analysis
 - 🌱 Always learning: AI tools, automation, and advanced analytics
-- 📍 Based in: Dallas, Texas
+- 📍 Based in: Texas
 
 ---
 
