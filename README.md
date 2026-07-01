@@ -62,12 +62,10 @@ I enjoy working with real-world datasets to uncover insights that drive business
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lokeswaribogolu9&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeswaribogolu9&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lokeswaribogolu9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeswaribogolu9&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="47%" />
 </p>
 
----
-
 <p align="center">
-  <i>"Turning raw data into clear decisions — one query at a time."</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeswaribogolu9&theme=tokyonight&hide_border=true" width="60%" />
 </p>
